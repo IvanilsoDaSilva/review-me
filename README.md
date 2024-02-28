@@ -39,6 +39,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=FFFFFF&color=FF00FF)&nbsp;
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF&color=FF00FF)&nbsp;
 
+  <!-- Others -->
+  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFFFFF&color=FF00FF)&nbsp;
+
   <!-- more -->
   [More...](https://github.com/Ileriayo/markdown-badges)
   
